@@ -1219,7 +1219,7 @@ FW_VERSIONS = {
     (Ecu.fwdRadar, 0x7d0, None): [
       b'\xf1\x00SG2_ RDR -----      1.00 1.01 99110-AT000         ',
     ],
-    (Ecu.cornerRader, 0x7b7, None): [
+    (Ecu.cornerRadar, 0x7b7, None): [
       b'\xf1\x00SG2 BCW RR 1.01 , 1.04 (wQ\x83"\x00\x99\x01\x08',
     ],
   },
